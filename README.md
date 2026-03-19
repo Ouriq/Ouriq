@@ -12,6 +12,9 @@ Selain berfokus pada *Data Analytics* dan *Database Management*, saya juga aktif
 
 ## 🏆 Pengalaman & Pencapaian
 * **Finalis ITechno Cup 2025** Berkompetisi sebagai *Front End Developer* bersama tim **RedDiamond**, menerapkan prinsip-prinsip *web development* dan *software engineering* dalam lingkungan kompetitif.
+* **Juara 1 Best Final Project - Weekly Android Dev** di **Google Developer Group (GDG) on Campus**, menunjukkan kemampuan dalam merancang dan mengembangkan aplikasi seluler yang fungsional.
+* **Juara 5 Best Final Project - Weekly Class AI/ML** di **Google Developer Group (GDG) on Campus**, membuktikan pemahaman praktis dalam melatih dan menerapkan model *Machine Learning* / Kecerdasan Buatan.
+* **Juara 1 Best Final Project - Weekly Class Web Developer (Back-End)** di **Google Developer Group (GDG) on Campus**, merepresentasikan keahlian dalam merancang arsitektur server, pengelolaan basis data, dan integrasi sistem.
 
 ## 📂 Sorotan Portofolio Proyek
 Berikut adalah beberapa proyek yang merepresentasikan keterampilan saya di bidang data dan pengembangan sistem:
